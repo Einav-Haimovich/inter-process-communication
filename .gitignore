@@ -1,0 +1,19 @@
+# Compiled output
+*.out
+*.o
+a.out
+client
+server
+
+# Runtime temp files created by the program
+toServer.txt
+*_toClient.txt
+
+# IDE artifacts
+.idea/
+.vscode/
+*.iml
+
+# OS artifacts
+.DS_Store
+Thumbs.db
